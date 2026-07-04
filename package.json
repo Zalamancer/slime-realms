@@ -1,0 +1,6 @@
+{
+  "name": "slime-realms",
+  "private": true,
+  "type": "module",
+  "description": "Slime Realms — a 3D slime MMORPG in the browser. Open index.html via any static server."
+}
